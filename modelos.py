@@ -4,6 +4,7 @@ import joblib
 from xgboost import XGBRegressor
 from sklearn.preprocessing import StandardScaler
 import os
+import json
 
 # 2022
 enero_2022_path = 'datasets_xlsx/2022/cuadro-insumos-medico-quirurgico-enero-2022.xlsx'
@@ -70,6 +71,7 @@ df_combined = pd.concat(dfs)
 # Renombrar las columnas
 df_combined.columns = ['Codigo', 'Insumo', 'Inventario', 'Fecha']
 
+df_insumos = df_combined[['Codigo', 'Insumo']]
 # Reordenar las columnas
 df_combined = df_combined[['Fecha', 'Codigo', 'Inventario']]
 
@@ -106,6 +108,7 @@ consumption = filtered_pivot_table.diff(axis=1).fillna(0)
 # Entrenar y guardar los modelos XGBoost
 modelos = {}
 scalers = {}
+predecibles = []
 
 output_dir = "modelos"
 os.makedirs(output_dir, exist_ok=True)
@@ -131,6 +134,20 @@ for codigo in consumption.index:
 
     joblib.dump(model, f"{output_dir}/xgb_model_{codigo}.pkl")
     joblib.dump(scaler, f"{output_dir}/scaler_{codigo}.pkl")
+
+    # Obtener el nombre del producto y los últimos 6 valores de consumo
+    nombre_producto = df_insumos[df_insumos['Codigo'] == codigo]['Insumo'].iloc[0]
+    ultimos_valores = df_codigo['Consumo'].tail(6).tolist()
+
+    predecibles.append({
+        'Codigo': codigo,
+        'Nombre': nombre_producto,
+        'ultimos_valores': ultimos_valores
+    })
+
+# Guardar la lista de productos predecibles en un archivo JSON
+with open('modelos/predecibles.json', 'w') as f:
+    json.dump(predecibles, f)
 
 print("Modelos y scalers guardados para los códigos:")
 print(list(modelos.keys()))

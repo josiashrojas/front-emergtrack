@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - .:/app
+    environment:
+      - FLASK_ENV=development
+    command: ["python", "app.py"]
+
+  update_models:
+    build: .
+    volumes:
+      - .:/app
+    command: ["python", "modelos.py"]

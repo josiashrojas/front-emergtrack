@@ -1,5 +1,7 @@
 import os
 import joblib
+import subprocess
+import json
 import numpy as np
 from flask import Flask, request, jsonify
 from sklearn.metrics import mean_squared_error
@@ -61,6 +63,15 @@ def update_models():
         if result.returncode != 0:
             raise Exception(result.stderr)
         return jsonify({'message': 'Modelos actualizados exitosamente'})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/get_predecibles', methods=['GET'])
+def get_predecibles():
+    try:
+        with open('modelos/predecibles.json', 'r') as f:
+            predecibles = json.load(f)
+        return jsonify(predecibles)
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
