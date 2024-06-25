@@ -48,36 +48,40 @@ def is_valid_date(date_str):
         return False
 # --------------------------- --------- --------------------------- #
 
-@app.route('/predict', methods=['GET'])
+@app.route('/predict', methods=['POST'])
 def predict():
     data = request.get_json()
-    codigo = data['codigo']
-    periodos = data['periodos']
+    codigo = int(data['codigo'])
+    periodos = int(data['periodos'])
+    var_holgura = 100
     last_known_values = data.get('last_known_values', [])  # Obtener last_known_values si está presente, de lo contrario, usar lista vacía
 
     if codigo not in modelos:
         return jsonify({'error': 'Código no encontrado - No es posible predecir producto'}), 404
 
     model = modelos[codigo]
-    scaler = scalers[codigo]
 
-    # Crear características para predicción futura
-    last_index = len(last_known_values)
-    future_X = np.arange(last_index + 1, last_index + 1 + periodos).reshape(-1, 1)
-    future_X_scaled = scaler.transform(future_X)
+    # Realizar predicción
+    pred = model.get_forecast(steps=periodos)
+    predictions = pred.predicted_mean
 
-    # Hacer predicciones
-    predictions = model.predict(future_X_scaled)
+    # Ajustar las predicciones según la var_holgura y el estado
+    adjusted_predictions = []
+    for p in predictions:
+        if p < 0:
+            adjusted_predictions.append((round(abs(p) + var_holgura, 0), "PEDIR"))
+        else:
+            adjusted_predictions.append((rount(p,0), "SUFICIENTE"))
 
     # Calcular MSE si hay valores reales proporcionados
     mse = None
     if len(last_known_values) >= periodos:
         actual_values = np.array(last_known_values[-periodos:])
-        mse = mean_squared_error(actual_values, predictions)
+        mse = mean_squared_error(actual_values, predictions[:periodos])
 
     return jsonify({
         'codigo': codigo,
-        'predicciones': predictions.tolist(),
+        'predicciones': adjusted_predictions,
         'mse': mse
     })
 
@@ -100,7 +104,7 @@ def get_predecibles():
     except Exception as e:
         return jsonify({'error': str(e)}), 500
 
-@app.route('/get_requerimientos', methods=['GET'])
+@app.route('/get_requerimientos', methods=['POST'])
 def get_requerimientos():
     data = request.get_json()
     codigo = data.get('codigo')
