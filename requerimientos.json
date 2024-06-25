@@ -1,0 +1,653 @@
+[
+    {
+        "codigo": 209019600,
+        "insumo": "APOSITO OCULAR ADULTO ESTERIL",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 52916,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209019600,
+        "insumo": "APOSITO OCULAR ADULTO ESTERIL",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5110,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209486401,
+        "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5038,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209486401,
+        "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5010,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209486101,
+        "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5082,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209486101,
+        "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5009,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209493501,
+        "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5192,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209493501,
+        "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
+        "mes_anterior": "2024-04-01",
+        "cantidad_a_pedir": 5181,
+        "fecha_deficit": "2024-05-01"
+    },
+    {
+        "codigo": 209493501,
+        "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5024,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209022300,
+        "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 30921,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209022300,
+        "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 7919,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209454501,
+        "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5451,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209454501,
+        "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5028,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209026003,
+        "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 6375242,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209026003,
+        "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 234682,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209025901,
+        "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 1397083,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209025901,
+        "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 15459,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209834001,
+        "insumo": "CANULA NASOFARINGEA  DE 20 FR A  26 FR.  (SE SOLOCITA TAMA\u00d10 26FR) ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 30274,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209834001,
+        "insumo": "CANULA NASOFARINGEA  DE 20 FR A  26 FR.  (SE SOLOCITA TAMA\u00d10 26FR) ",
+        "mes_anterior": "2024-04-01",
+        "cantidad_a_pedir": 12912,
+        "fecha_deficit": "2024-05-01"
+    },
+    {
+        "codigo": 209215201,
+        "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5376,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209215101,
+        "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 30FR      ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 6449,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209215001,
+        "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 8407,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209834701,
+        "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 11010,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209214901,
+        "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 14570,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209055904,
+        "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5696,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209055901,
+        "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5176,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209055901,
+        "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5001,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209027618,
+        "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 6000,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209833901,
+        "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 309687,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209833901,
+        "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 130558,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209975501,
+        "insumo": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 12770,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209975301,
+        "insumo": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 21130,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209975301,
+        "insumo": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 9446,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209286701,
+        "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5535,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209286701,
+        "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5010,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209031100,
+        "insumo": "COBERTOR PARA SILLETA (PALETA)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 19693,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209036301,
+        "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 6440786,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209038206,
+        "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 7809,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209170601,
+        "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 34213,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209170601,
+        "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 13526,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209770201,
+        "insumo": "GORRO PARA VARON.",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 1400046,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209770201,
+        "insumo": "GORRO PARA VARON.",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 585888,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209168001,
+        "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5319,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209168001,
+        "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
+        "mes_anterior": "2024-04-01",
+        "cantidad_a_pedir": 5068,
+        "fecha_deficit": "2024-05-01"
+    },
+    {
+        "codigo": 209047501,
+        "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5247,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209047501,
+        "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5036,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209113400,
+        "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5863,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209113400,
+        "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5135,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209041200,
+        "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 462862,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209375601,
+        "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 74686,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209416401,
+        "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 34439,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209416401,
+        "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5662,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209049500,
+        "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 76231,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209049500,
+        "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 19882,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209471301,
+        "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 132503,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209471301,
+        "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 47956,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209044100,
+        "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 530455,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209052001,
+        "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 5622,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209052001,
+        "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5227,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209052008,
+        "insumo": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 9102,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209052008,
+        "insumo": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5821,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209032201,
+        "insumo": "PROTECTOR PL\u00c1STICO PARA EL OJO",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 10582,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209666301,
+        "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 7648,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209666301,
+        "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5255,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209270001,
+        "insumo": "SET DE ROPA\n",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 8781,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209833401,
+        "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 81307,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209833401,
+        "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
+        "mes_anterior": "2024-04-01",
+        "cantidad_a_pedir": 21154,
+        "fecha_deficit": "2024-05-01"
+    },
+    {
+        "codigo": 209459201,
+        "insumo": "SET DE ROPA PARA CITOSCOP\u00cdA",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 12117,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209459201,
+        "insumo": "SET DE ROPA PARA CITOSCOP\u00cdA",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 8898,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209050104,
+        "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 19586,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209050104,
+        "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 8775,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209058900,
+        "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 84766,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209058900,
+        "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 22883,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209542201,
+        "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 43020,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209066101,
+        "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO CALIBRE 3-0, DE LONGITUD 90CM, DOBLE AGUJA DE 25 - 26MM, 1/2 C\u00cdRCULO PUNTA REDONDA EST\u00c9RIL",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 7734,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209066101,
+        "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO CALIBRE 3-0, DE LONGITUD 90CM, DOBLE AGUJA DE 25 - 26MM, 1/2 C\u00cdRCULO PUNTA REDONDA EST\u00c9RIL",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5380,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209485301,
+        "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 27785,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209485301,
+        "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 7156,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209063308,
+        "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 7045,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209063308,
+        "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5233,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209065500,
+        "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 11218,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209868301,
+        "insumo": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 9493053,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209018401,
+        "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 908899,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209018501,
+        "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 526199,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209113300,
+        "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 12262,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209113300,
+        "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5711,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209055603,
+        "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 112642,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209055601,
+        "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 165891,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209055601,
+        "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 68350,
+        "fecha_deficit": "2024-06-01"
+    },
+    {
+        "codigo": 209055604,
+        "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 12986,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209055604,
+        "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
+        "mes_anterior": "2024-04-01",
+        "cantidad_a_pedir": 6264,
+        "fecha_deficit": "2024-05-01"
+    },
+    {
+        "codigo": 209054601,
+        "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 10FR, LONG 120CM\n",
+        "mes_anterior": "2024-03-01",
+        "cantidad_a_pedir": 10137,
+        "fecha_deficit": "2024-04-01"
+    },
+    {
+        "codigo": 209054602,
+        "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
+        "mes_anterior": "2024-05-01",
+        "cantidad_a_pedir": 5688,
+        "fecha_deficit": "2024-06-01"
+    }
+]

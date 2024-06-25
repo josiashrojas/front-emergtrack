@@ -76,6 +76,26 @@ def get_predecibles():
         return jsonify(predecibles)
     except Exception as e:
         return jsonify({'error': str(e)}), 500
+    
+# Cargar el JSON de requerimientos
+with open('requerimientos.json', 'r') as file:
+    requerimientos = json.load(file)
+
+@app.route('/get_requerimientos', methods=['POST'])
+def get_requerimientos():
+    data = request.get_json()
+    codigo = data.get('codigo')
+    
+    if not codigo:
+        return jsonify({"error": "Código no proporcionado"}), 400
+
+    # Filtrar los requerimientos por código
+    filtered_requerimientos = [req for req in requerimientos if req['codigo'] == codigo]
+
+    if not filtered_requerimientos:
+        return jsonify({"error": "No se encontraron requerimientos para el código proporcionado"}), 404
+
+    return jsonify(filtered_requerimientos)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=80)

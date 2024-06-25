@@ -1,0 +1,710 @@
+[
+    {
+        "Codigo": 209019600,
+        "Nombre": "APOSITO OCULAR ADULTO ESTERIL",
+        "ultimos_valores": [
+            0,
+            6450,
+            -12900,
+            0,
+            -1350,
+            -13200
+        ]
+    },
+    {
+        "Codigo": 209486401,
+        "Nombre": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
+        "ultimos_valores": [
+            0,
+            7,
+            -14,
+            0,
+            7,
+            0
+        ]
+    },
+    {
+        "Codigo": 209486101,
+        "Nombre": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
+        "ultimos_valores": [
+            -4,
+            -62,
+            -319,
+            -18,
+            7,
+            -64
+        ]
+    },
+    {
+        "Codigo": 209493501,
+        "Nombre": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
+        "ultimos_valores": [
+            0,
+            9,
+            -18,
+            -4,
+            -1,
+            -2
+        ]
+    },
+    {
+        "Codigo": 209022300,
+        "Nombre": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
+        "ultimos_valores": [
+            -21528,
+            4514,
+            -61254,
+            -17618,
+            15522,
+            178
+        ]
+    },
+    {
+        "Codigo": 209454501,
+        "Nombre": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
+        "ultimos_valores": [
+            0,
+            85,
+            -170,
+            0,
+            85,
+            0
+        ]
+    },
+    {
+        "Codigo": 209026003,
+        "Nombre": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
+        "ultimos_valores": [
+            4700,
+            -15500,
+            -1638740,
+            -2547352,
+            97444,
+            2248032
+        ]
+    },
+    {
+        "Codigo": 209025901,
+        "Nombre": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
+        "ultimos_valores": [
+            -21900,
+            7800,
+            -459000,
+            -768600,
+            -1585,
+            725285
+        ]
+    },
+    {
+        "Codigo": 209834001,
+        "Nombre": "CANULA NASOFARINGEA  DE 20 FR A  26 FR.  (SE SOLOCITA TAMA\u00d10 26FR) ",
+        "ultimos_valores": [
+            0,
+            -20,
+            -2500,
+            0,
+            2440,
+            0
+        ]
+    },
+    {
+        "Codigo": 209215201,
+        "Nombre": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
+        "ultimos_valores": [
+            0,
+            100,
+            -290,
+            0,
+            70,
+            0
+        ]
+    },
+    {
+        "Codigo": 209215101,
+        "Nombre": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 30FR      ",
+        "ultimos_valores": [
+            0,
+            300,
+            -600,
+            0,
+            300,
+            0
+        ]
+    },
+    {
+        "Codigo": 209215001,
+        "Nombre": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
+        "ultimos_valores": [
+            0,
+            100,
+            -930,
+            0,
+            530,
+            -230
+        ]
+    },
+    {
+        "Codigo": 209834701,
+        "Nombre": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
+        "ultimos_valores": [
+            0,
+            0,
+            -1950,
+            0,
+            1950,
+            0
+        ]
+    },
+    {
+        "Codigo": 209214901,
+        "Nombre": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
+        "ultimos_valores": [
+            0,
+            -2696,
+            -104,
+            0,
+            2800,
+            0
+        ]
+    },
+    {
+        "Codigo": 209055904,
+        "Nombre": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
+        "ultimos_valores": [
+            0,
+            68,
+            -136,
+            0,
+            68,
+            0
+        ]
+    },
+    {
+        "Codigo": 209055901,
+        "Nombre": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
+        "ultimos_valores": [
+            0,
+            26,
+            -52,
+            -21,
+            19,
+            0
+        ]
+    },
+    {
+        "Codigo": 209027618,
+        "Nombre": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
+        "ultimos_valores": [
+            0,
+            35,
+            -490,
+            -160,
+            135,
+            -50
+        ]
+    },
+    {
+        "Codigo": 209833901,
+        "Nombre": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
+        "ultimos_valores": [
+            -58150,
+            21800,
+            -170000,
+            -68400,
+            42400,
+            -36800
+        ]
+    },
+    {
+        "Codigo": 209975501,
+        "Nombre": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
+        "ultimos_valores": [
+            -314,
+            915,
+            -7930,
+            200,
+            6807,
+            -198
+        ]
+    },
+    {
+        "Codigo": 209975301,
+        "Nombre": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
+        "ultimos_valores": [
+            714,
+            850,
+            -8514,
+            200,
+            7464,
+            -200
+        ]
+    },
+    {
+        "Codigo": 209286701,
+        "Nombre": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
+        "ultimos_valores": [
+            0,
+            -38,
+            -286,
+            -54,
+            0,
+            0
+        ]
+    },
+    {
+        "Codigo": 209031100,
+        "Nombre": "COBERTOR PARA SILLETA (PALETA)",
+        "ultimos_valores": [
+            0,
+            -100,
+            -9750,
+            0,
+            -2450,
+            -5950
+        ]
+    },
+    {
+        "Codigo": 209036301,
+        "Nombre": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
+        "ultimos_valores": [
+            -170725,
+            -133173,
+            -366950,
+            -231796,
+            -41498,
+            -83345
+        ]
+    },
+    {
+        "Codigo": 209038206,
+        "Nombre": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
+        "ultimos_valores": [
+            0,
+            90,
+            300,
+            -450,
+            60,
+            -30
+        ]
+    },
+    {
+        "Codigo": 209170601,
+        "Nombre": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
+        "ultimos_valores": [
+            -672,
+            -672,
+            -9324,
+            -1436,
+            6996,
+            -1524
+        ]
+    },
+    {
+        "Codigo": 209770201,
+        "Nombre": "GORRO PARA VARON.",
+        "ultimos_valores": [
+            -164000,
+            -246900,
+            -252900,
+            -145900,
+            -43500,
+            115400
+        ]
+    },
+    {
+        "Codigo": 209168001,
+        "Nombre": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
+        "ultimos_valores": [
+            0,
+            0,
+            -155,
+            -310,
+            150,
+            305
+        ]
+    },
+    {
+        "Codigo": 209047501,
+        "Nombre": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
+        "ultimos_valores": [
+            0,
+            42,
+            -84,
+            0,
+            42,
+            0
+        ]
+    },
+    {
+        "Codigo": 209113400,
+        "Nombre": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
+        "ultimos_valores": [
+            0,
+            -20,
+            -186,
+            -38,
+            16,
+            0
+        ]
+    },
+    {
+        "Codigo": 209041200,
+        "Nombre": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
+        "ultimos_valores": [
+            -40800,
+            -61050,
+            -426400,
+            -145150,
+            -28700,
+            -125000
+        ]
+    },
+    {
+        "Codigo": 209375601,
+        "Nombre": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
+        "ultimos_valores": [
+            -680,
+            -8290,
+            -5200,
+            -1830,
+            -3220,
+            -4770
+        ]
+    },
+    {
+        "Codigo": 209416401,
+        "Nombre": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
+        "ultimos_valores": [
+            0,
+            0,
+            -2600,
+            0,
+            2600,
+            0
+        ]
+    },
+    {
+        "Codigo": 209049500,
+        "Nombre": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
+        "ultimos_valores": [
+            -1426,
+            -5116,
+            -13539,
+            -7936,
+            -660,
+            -650
+        ]
+    },
+    {
+        "Codigo": 209471301,
+        "Nombre": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
+        "ultimos_valores": [
+            -3730,
+            -22150,
+            -24280,
+            -18120,
+            -8640,
+            -480
+        ]
+    },
+    {
+        "Codigo": 209044100,
+        "Nombre": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
+        "ultimos_valores": [
+            -10800,
+            -22000,
+            -50490,
+            15390,
+            20100,
+            -3000
+        ]
+    },
+    {
+        "Codigo": 209052001,
+        "Nombre": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
+        "ultimos_valores": [
+            -46,
+            -50,
+            -30,
+            -18,
+            9,
+            0
+        ]
+    },
+    {
+        "Codigo": 209052008,
+        "Nombre": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
+        "ultimos_valores": [
+            -523,
+            -1111,
+            -6482,
+            -1160,
+            2220,
+            -1622
+        ]
+    },
+    {
+        "Codigo": 209032201,
+        "Nombre": "PROTECTOR PL\u00c1STICO PARA EL OJO",
+        "ultimos_valores": [
+            0,
+            1032,
+            -2064,
+            0,
+            1032,
+            -2400
+        ]
+    },
+    {
+        "Codigo": 209666301,
+        "Nombre": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
+        "ultimos_valores": [
+            0,
+            144,
+            -288,
+            0,
+            144,
+            0
+        ]
+    },
+    {
+        "Codigo": 209270001,
+        "Nombre": "SET DE ROPA\n",
+        "ultimos_valores": [
+            -9136,
+            -5304,
+            9696,
+            -4600,
+            -4770,
+            -510
+        ]
+    },
+    {
+        "Codigo": 209833401,
+        "Nombre": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
+        "ultimos_valores": [
+            -1400,
+            -3192,
+            -3560,
+            -1892,
+            -1596,
+            -408
+        ]
+    },
+    {
+        "Codigo": 209459201,
+        "Nombre": "SET DE ROPA PARA CITOSCOP\u00cdA",
+        "ultimos_valores": [
+            -60,
+            -4246,
+            -9660,
+            -2774,
+            -1520,
+            -4342
+        ]
+    },
+    {
+        "Codigo": 209050104,
+        "Nombre": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
+        "ultimos_valores": [
+            -65,
+            -50,
+            -4510,
+            -357,
+            1247,
+            -2364
+        ]
+    },
+    {
+        "Codigo": 209058900,
+        "Nombre": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
+        "ultimos_valores": [
+            -432,
+            -1080,
+            -16512,
+            -1248,
+            9888,
+            216
+        ]
+    },
+    {
+        "Codigo": 209542201,
+        "Nombre": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
+        "ultimos_valores": [
+            0,
+            0,
+            -624,
+            0,
+            120,
+            -1512
+        ]
+    },
+    {
+        "Codigo": 209066101,
+        "Nombre": "SUTURA: POLIPROPILENO MONOFILAMENTO CALIBRE 3-0, DE LONGITUD 90CM, DOBLE AGUJA DE 25 - 26MM, 1/2 C\u00cdRCULO PUNTA REDONDA EST\u00c9RIL",
+        "ultimos_valores": [
+            -336,
+            2784,
+            984,
+            -1728,
+            -1176,
+            -1032
+        ]
+    },
+    {
+        "Codigo": 209485301,
+        "Nombre": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
+        "ultimos_valores": [
+            0,
+            12,
+            -24,
+            0,
+            12,
+            0
+        ]
+    },
+    {
+        "Codigo": 209063308,
+        "Nombre": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
+        "ultimos_valores": [
+            -144,
+            192,
+            -480,
+            0,
+            240,
+            0
+        ]
+    },
+    {
+        "Codigo": 209065500,
+        "Nombre": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
+        "ultimos_valores": [
+            -108,
+            72,
+            -216,
+            0,
+            7932,
+            240
+        ]
+    },
+    {
+        "Codigo": 209868301,
+        "Nombre": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
+        "ultimos_valores": [
+            -340600,
+            -255800,
+            -6589200,
+            -8068540,
+            212386,
+            6238954
+        ]
+    },
+    {
+        "Codigo": 209018401,
+        "Nombre": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
+        "ultimos_valores": [
+            5860,
+            91920,
+            -321545,
+            0,
+            221270,
+            -79035
+        ]
+    },
+    {
+        "Codigo": 209018501,
+        "Nombre": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
+        "ultimos_valores": [
+            93200,
+            38155,
+            -273410,
+            -105510,
+            143270,
+            -205095
+        ]
+    },
+    {
+        "Codigo": 209113300,
+        "Nombre": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
+        "ultimos_valores": [
+            12,
+            -456,
+            -1776,
+            0,
+            24,
+            0
+        ]
+    },
+    {
+        "Codigo": 209055603,
+        "Nombre": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
+        "ultimos_valores": [
+            76520,
+            480,
+            -20360,
+            -510,
+            18640,
+            -730
+        ]
+    },
+    {
+        "Codigo": 209055601,
+        "Nombre": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
+        "ultimos_valores": [
+            85660,
+            40,
+            -25250,
+            -1690,
+            18430,
+            -710
+        ]
+    },
+    {
+        "Codigo": 209055604,
+        "Nombre": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
+        "ultimos_valores": [
+            440,
+            110,
+            -220,
+            0,
+            110,
+            0
+        ]
+    },
+    {
+        "Codigo": 209054601,
+        "Nombre": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 10FR, LONG 120CM\n",
+        "ultimos_valores": [
+            850,
+            1200,
+            362,
+            -350,
+            838,
+            -604
+        ]
+    },
+    {
+        "Codigo": 209054602,
+        "Nombre": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
+        "ultimos_valores": [
+            550,
+            697,
+            144,
+            -250,
+            -565,
+            388
+        ]
+    },
+    {
+        "Codigo": 209058300,
+        "Nombre": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
+        "ultimos_valores": [
+            3962,
+            -9967,
+            -2962,
+            4080,
+            8653,
+            -2166
+        ]
+    }
+]
