@@ -6,6 +6,7 @@ import numpy as np
 from flask import Flask, request, jsonify
 from sklearn.metrics import mean_squared_error
 from flask_cors import CORS
+import pandas as pd  # Importar pandas para manejar las fechas
 
 app = Flask(__name__)
 CORS(app)
@@ -81,19 +82,38 @@ def get_predecibles():
 with open('requerimientos.json', 'r') as file:
     requerimientos = json.load(file)
 
+def is_valid_date(date_str):
+    try:
+        datetime.strptime(date_str, '%Y-%m-%d')
+        return True
+    except ValueError:
+        return False
+
 @app.route('/get_requerimientos', methods=['POST'])
 def get_requerimientos():
     data = request.get_json()
     codigo = data.get('codigo')
-    
+    fecha_inicio = data.get('fecha_inicio')
+
     if not codigo:
         return jsonify({"error": "Código no proporcionado"}), 400
+
+    if fecha_inicio and not is_valid_date(fecha_inicio):
+        return jsonify({"error": "Fecha inicio no válida"}), 400
 
     # Filtrar los requerimientos por código
     filtered_requerimientos = [req for req in requerimientos if req['codigo'] == codigo]
 
     if not filtered_requerimientos:
         return jsonify({"error": "No se encontraron requerimientos para el código proporcionado"}), 404
+
+    # Filtrar los requerimientos por fecha_inicio si se proporciona
+    if fecha_inicio:
+        fecha_inicio = pd.to_datetime(fecha_inicio)
+        filtered_requerimientos = [req for req in filtered_requerimientos if pd.to_datetime(req['fecha_deficit']) >= fecha_inicio]
+
+    if not filtered_requerimientos:
+        return jsonify({"error": "No se encontraron requerimientos para el código proporcionado desde la fecha proporcionada"}), 404
 
     return jsonify(filtered_requerimientos)
 
