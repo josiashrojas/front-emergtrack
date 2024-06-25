@@ -7,7 +7,7 @@ from flask import Flask, request, jsonify
 from sklearn.metrics import mean_squared_error
 from flask_cors import CORS
 import pandas as pd  # Importar pandas para manejar las fechas
-import datetime
+from datetime import datetime
 
 app = Flask(__name__)
 CORS(app)
