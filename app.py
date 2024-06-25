@@ -27,7 +27,28 @@ for scaler_file in scaler_files:
     codigo = scaler_file.replace('scaler_', '').replace('.pkl', '')
     scalers[codigo] = joblib.load(f"modelos/{scaler_file}")
 
-@app.route('/predict', methods=['POST'])
+# Cargar los modelos SARIMAX desde archivos
+output_dir = "modelos_sarimax"
+model_files = [f for f in os.listdir(output_dir) if f.startswith('modelo_') and f.endswith('.pkl')]
+
+for model_file in model_files:
+    codigo_producto = int(model_file.split('_')[1].split('.')[0])
+    modelos[codigo_producto] = joblib.load(os.path.join(output_dir, model_file))
+
+# Cargar el archivo JSON con los nombres de los insumos
+with open('json_files/codigo_nombre_productos.json', 'r') as json_file:
+    codigo_nombre_dict = json.load(json_file)
+
+# --------------------------- Funciones --------------------------- #
+def is_valid_date(date_str):
+    try:
+        datetime.strptime(date_str, '%Y-%m-%d')
+        return True
+    except ValueError:
+        return False
+# --------------------------- --------- --------------------------- #
+
+@app.route('/predict', methods=['GET'])
 def predict():
     data = request.get_json()
     codigo = data['codigo']
@@ -60,10 +81,10 @@ def predict():
         'mse': mse
     })
 
-@app.route('/update_models', methods=['POST'])
+@app.route('/update_models', methods=['GET'])
 def update_models():
     try:
-        result = subprocess.run(['python', 'modelos.py'], capture_output=True, text=True)
+        result = subprocess.run(['python', 'train_model.py'], capture_output=True, text=True)
         if result.returncode != 0:
             raise Exception(result.stderr)
         return jsonify({'message': 'Modelos actualizados exitosamente'})
@@ -73,24 +94,13 @@ def update_models():
 @app.route('/get_predecibles', methods=['GET'])
 def get_predecibles():
     try:
-        with open('modelos/predecibles.json', 'r') as f:
+        with open('json_files/predecibles.json', 'r') as f:
             predecibles = json.load(f)
         return jsonify(predecibles)
     except Exception as e:
         return jsonify({'error': str(e)}), 500
-    
-# Cargar el JSON de requerimientos
-with open('requerimientos.json', 'r') as file:
-    requerimientos = json.load(file)
 
-def is_valid_date(date_str):
-    try:
-        datetime.strptime(date_str, '%Y-%m-%d')
-        return True
-    except ValueError:
-        return False
-
-@app.route('/get_requerimientos', methods=['POST'])
+@app.route('/get_requerimientos', methods=['GET'])
 def get_requerimientos():
     data = request.get_json()
     codigo = data.get('codigo')
@@ -100,23 +110,55 @@ def get_requerimientos():
         return jsonify({"error": "Código no proporcionado"}), 400
 
     if fecha_base and not is_valid_date(fecha_base):
-        return jsonify({"error": "Fecha inicio no válida"}), 400
+        return jsonify({"error": "Fecha base no válida"}), 400
 
-    # Filtrar los requerimientos por código
-    filtered_requerimientos = [req for req in requerimientos if req['codigo'] == codigo]
+    codigo = int(codigo)
 
-    if not filtered_requerimientos:
-        return jsonify({"error": "No se encontraron requerimientos para el código proporcionado"}), 404
+    if codigo not in modelos:
+        return jsonify({"error": "No se encontró el modelo para el producto proporcionado"}), 404
+
+    modelo = modelos[codigo]
+
+    # Obtener la última fecha de entrenamiento del modelo
+    end_date = modelo.data.dates[-1]
+    periods = 12  # Número de periodos a predecir
+
+    # Realizar predicción
+    pred = modelo.get_forecast(steps=periods)
+    predicted_values = pred.predicted_mean
+
+    # Definir la cantidad adicional de seguridad
+    cantidad_adicional = 100
+
+    # Lista para almacenar los avisos
+    avisos = []
+
+    # Generar avisos para cada mes con inventario negativo
+    for fecha, inventario in predicted_values.items():
+        mes_anterior = (pd.to_datetime(fecha) - pd.DateOffset(months=1)).strftime('%Y-%m-01')
+        mes_anterior = (pd.to_datetime(mes_anterior) + pd.DateOffset(days=-1)).strftime('%Y-%m-%d')
+        nombre_insumo = codigo_nombre_dict.get(str(codigo), f"Insumo_{codigo}")
+        cantidad_a_pedir = int(abs(inventario) + cantidad_adicional)  # Convertir a entero
+        tipo = "APROVISIONAMIENTO" if inventario > 0 else "CONSUMO"
+        aviso = {
+            "codigo": codigo,
+            "insumo": nombre_insumo,  # Aquí puedes agregar el nombre real del insumo si lo tienes disponible
+            "fecha_pedir_insumos": mes_anterior,
+            "cantidad_a_pedir": cantidad_a_pedir,
+            "mes_a_cubrir": (pd.to_datetime(fecha) + pd.DateOffset(days=-1)).strftime('%Y-%m-%d'),
+            "tipo": tipo
+        }
+        avisos.append(aviso)
 
     # Filtrar los requerimientos por fecha_base si se proporciona
     if fecha_base:
         fecha_base = pd.to_datetime(fecha_base)
-        filtered_requerimientos = [req for req in filtered_requerimientos if pd.to_datetime(req['fecha_pedir_insumos']) >= fecha_base]
+        avisos = [aviso for aviso in avisos if pd.to_datetime(aviso['mes_a_cubrir']) >= fecha_base]
 
-    if not filtered_requerimientos:
-        return jsonify({"error": "No se encontraron requerimientos para el código proporcionado desde la fecha proporcionada"}), 404
+    if not avisos:
+        return jsonify({"error": "No se encontraron requerimientos desde la fecha proporcionada"}), 404
 
-    return jsonify(filtered_requerimientos)
+    return jsonify(avisos)
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=80)

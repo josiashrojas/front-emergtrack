@@ -11,8 +11,8 @@ services:
       - FLASK_ENV=development
     command: ["python", "app.py"]
 
-  update_models:
-    build: .
-    volumes:
-      - .:/app
-    command: ["python", "modelos.py"]
+#  update_models:
+#    build: .
+#    volumes:
+#      - .:/app
+#    command: ["python", "train_model.py"]
