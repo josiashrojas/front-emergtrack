@@ -5,8 +5,10 @@ import json
 import numpy as np
 from flask import Flask, request, jsonify
 from sklearn.metrics import mean_squared_error
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 
 # Cargar los modelos y scalers
 modelos = {}
