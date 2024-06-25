@@ -111,7 +111,7 @@ def get_requerimientos():
     # Filtrar los requerimientos por fecha_base si se proporciona
     if fecha_base:
         fecha_base = pd.to_datetime(fecha_base)
-        filtered_requerimientos = [req for req in filtered_requerimientos if pd.to_datetime(req['mes_a_cubrir']) >= fecha_base]
+        filtered_requerimientos = [req for req in filtered_requerimientos if pd.to_datetime(req['fecha_pedir_insumos']) >= fecha_base]
 
     if not filtered_requerimientos:
         return jsonify({"error": "No se encontraron requerimientos para el código proporcionado desde la fecha proporcionada"}), 404
