@@ -2,2948 +2,2948 @@
     {
         "codigo": 209019600,
         "insumo": "APOSITO OCULAR ADULTO ESTERIL",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 32449,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209019600,
         "insumo": "APOSITO OCULAR ADULTO ESTERIL",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 39663,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209019600,
         "insumo": "APOSITO OCULAR ADULTO ESTERIL",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 68050,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209019600,
         "insumo": "APOSITO OCULAR ADULTO ESTERIL",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 25043,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209019600,
         "insumo": "APOSITO OCULAR ADULTO ESTERIL",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 19579,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209019600,
         "insumo": "APOSITO OCULAR ADULTO ESTERIL",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 37253,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209019600,
         "insumo": "APOSITO OCULAR ADULTO ESTERIL",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 19796,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5031,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5036,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5061,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5035,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5416,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5137,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5181,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5056,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209486401,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA -SUPER FUERTE)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5098,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5256,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5288,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5101,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 5061,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5064,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5223,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5823,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5621,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209486101,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO                     (SE SOLICITA FUERTE) ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5676,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5065,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 6427,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 5075,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5050,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5087,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5042,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5012,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209493501,
         "insumo": "BANDAS EL\u00c1STICAS PARA FORTALECIMIENTO.                    (SE SOLICITA SUAVE)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5068,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209022300,
         "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 24571,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209022300,
         "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 32435,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209022300,
         "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 8908,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209022300,
         "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 6317,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209022300,
         "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 9556,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209022300,
         "insumo": "BOLSA COLECTORA DE ORINA DE 30 A 35 ONZA DE CAPACIDAD     (900CC A 1050CC) DE PIERNA . ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 41745,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209454501,
         "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5334,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209454501,
         "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5299,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209454501,
         "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5167,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209454501,
         "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5376,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209454501,
         "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5061,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209454501,
         "insumo": "BOLSA INFUSORA A PRESION .SE SOLICITA BOLSA DE 1000cc DE CAPACIDAD",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5270,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209026003,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 2213343,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209026003,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 4837576,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209026003,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 573113,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209026003,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 1605133,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209026003,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 3746783,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209026003,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 1630863,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209026003,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PARA ADULTOS.                (SE SOLICITA: 12 PULGADAS DE LONGITUD)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 1977386,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209025901,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 444788,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209025901,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 976340,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209025901,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 229632,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209025901,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 445650,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209025901,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 1175699,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209025901,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 477192,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209025901,
         "insumo": "BRAZALETE DE IDENTIFICACI\u00d3N PEDIATRICA. SE SOLICITA: 8 PULGADAS DE LONGITUD",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 600166,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 6439,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5986,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 6264,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5301,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5400,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5541,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5827,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5339,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209215201,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 28FR   ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5534,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209215101,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 30FR      ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 6555,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209215101,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 30FR      ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5111,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209215101,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 30FR      ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5220,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209215101,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 30FR      ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5450,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209215101,
         "insumo": "CANULA NASOFARINGEA  DE 28 FR A 30 FR. SE SOLOCITA TAMA\u00d10 30FR      ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5196,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209215001,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 9342,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209215001,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5366,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209215001,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5791,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209215001,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 6895,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209215001,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5624,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209215001,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.                        (SE SOLOCITA TAMA\u00d10 34FR)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5951,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209834701,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 6868,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209834701,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 22719,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209834701,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 7310,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209834701,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 7472,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209834701,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 7510,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209834701,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 7173,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209834701,
         "insumo": "CANULA NASOFARINGEA  DE 32 FR A 36 FR.  (SE SOLOCITA TAMA\u00d10 36FR)        ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5469,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 8386,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 7403,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 15969,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 6085,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5013,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 7778,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 9599,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 7128,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209214901,
         "insumo": "CANULA NASOFARINGEA DE 32 FR A 36 FR.                 (SE SOLOCITA TAMA\u00d10 32FR) ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 7273,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5116,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5373,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5866,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5123,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5277,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5318,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5514,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5087,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5067,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209055904,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA.                      (SE SOLICITA TAMA\u00d1O N\u00b0 6)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5266,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5062,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5149,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5232,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5052,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5072,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5103,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5133,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-09-30",
+        "fecha_pedir_insumos": "2024-09-30",
         "cantidad_a_pedir": 5034,
-        "fecha_deficit": "2024-10-31"
+        "mes_a_cubrir": "2024-10-31"
     },
     {
         "codigo": 209055901,
         "insumo": "CAN\u00daLA DE TRAQUEOSTOM\u00cdA. SE SOLICITA TAMA\u00d1O N\u00b0 8",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5160,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209027618,
         "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5802,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209027618,
         "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5847,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209027618,
         "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5544,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209027618,
         "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5221,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209027618,
         "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 6072,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209027618,
         "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5685,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209027618,
         "insumo": "CATETER DE HISTEROSONOGRAFIA, 5Fr O 7FR. SE SOLICITA TAMA\u00d1O  5FR Y BALON DE 3CC",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5754,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 9604,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 358645,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 111823,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 29933,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 28188,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 211019,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 108360,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 129422,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 198314,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209833901,
         "insumo": "CATETER INTRAVENOSO DE BIOSEGURIDAD 1. Cat\u00e9ter con sistema de seguridad de retracci\u00f3n autom\u00e1tica al extraer la gu\u00eda o aguja ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 148725,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209975501,
         "insumo": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 16412,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209975501,
         "insumo": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 11655,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209975501,
         "insumo": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5013,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209975501,
         "insumo": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 6513,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209975501,
         "insumo": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 8598,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209975501,
         "insumo": "CEPILLO PARA LIMPIAR 75mm x 20mm x 15mm (FLEXIBLE)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 6001,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209975301,
         "insumo": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 21316,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209975301,
         "insumo": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 8063,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209975301,
         "insumo": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5822,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209975301,
         "insumo": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 11840,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209975301,
         "insumo": "CEPILLO PLANO PARA LIMPIEZA DE 75MM X 20MM X 15MM (RIGIDO) ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 7515,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5085,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5211,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5569,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5088,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5153,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5256,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5451,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5197,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5018,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209286701,
         "insumo": "CINTURON SEGURIDAD PARA MARCHA DE ADULTO.         (SE SOLICITA GRANDE 44\"-60\")",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5331,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209031100,
         "insumo": "COBERTOR PARA SILLETA (PALETA)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 11604,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209031100,
         "insumo": "COBERTOR PARA SILLETA (PALETA)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 16698,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209031100,
         "insumo": "COBERTOR PARA SILLETA (PALETA)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 9207,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209031100,
         "insumo": "COBERTOR PARA SILLETA (PALETA)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 11849,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209031100,
         "insumo": "COBERTOR PARA SILLETA (PALETA)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 23577,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209031100,
         "insumo": "COBERTOR PARA SILLETA (PALETA)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 10076,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209031100,
         "insumo": "COBERTOR PARA SILLETA (PALETA)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 12983,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 1237198,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 3428416,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 7940706,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 1156463,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 1090564,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 3375197,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5538038,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5613179,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209036301,
         "insumo": "CONECTOR O EQUIPO PARA INFUSI\u00d3N DE SOLUCI\u00d3N PARENTERAL, CON DOS FILTRO .",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5578075,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209038206,
         "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 6378,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209038206,
         "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 9296,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209038206,
         "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5332,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209038206,
         "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5820,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209038206,
         "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 6998,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209038206,
         "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5008,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209038206,
         "insumo": "CUCHILLETE ESPATULADO ESTILO CRESCENT ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 6092,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209170601,
         "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 30494,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209170601,
         "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 7175,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209170601,
         "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 18308,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209170601,
         "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 29248,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209170601,
         "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 16025,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209170601,
         "insumo": "ESPIROMETRO INCENTIVO PARA REALIZAR EJERCICIOS DE RESPIRACION PROFUNDA.\n(DESECHABLE):",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 18718,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 152738,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 484229,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 912655,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 388239,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 353228,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 536138,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 440734,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209770201,
         "insumo": "GORRO PARA VARON.",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 235426,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209168001,
         "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5174,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209168001,
         "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 5253,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209168001,
         "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5209,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209168001,
         "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5127,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209168001,
         "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5075,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209168001,
         "insumo": "INJERTO VASCULAR CONICO CON ANILLOS INTEGRADOS AL PTFE.   SE SOLICITA:  CON HEPARINA BIOACTIVA, CAN ANILLO INTEGRAD, INJERTO VASCULAR C\u00d3NICO ENTRE 4MM y  7MM , LONGITUD 45CM",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5236,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209047501,
         "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5189,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209047501,
         "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5201,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209047501,
         "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5169,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209047501,
         "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5228,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209047501,
         "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5025,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209047501,
         "insumo": "INSTRUMENTO PARA LIGAR VASOS DE TITANIUM, DESECHABLE  (SE SOLICITA TAMA\u00d1O GRANDE)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5153,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209113400,
         "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5766,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209113400,
         "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 16086,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209113400,
         "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 5668,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209113400,
         "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5018,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209113400,
         "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
-        "mes_anterior": "2024-09-30",
+        "fecha_pedir_insumos": "2024-09-30",
         "cantidad_a_pedir": 5435,
-        "fecha_deficit": "2024-10-31"
+        "mes_a_cubrir": "2024-10-31"
     },
     {
         "codigo": 209113400,
         "insumo": "INSTRUMENTO PARA PROLAPSO RECTAL Y HEMORROIDES",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5268,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209041200,
         "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 295219,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209041200,
         "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 321998,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209041200,
         "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 282485,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209041200,
         "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 187676,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209041200,
         "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 300952,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209041200,
         "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 71042,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209041200,
         "insumo": "JERINGUILLA 50-60ML. SE SOLICITA  50ml, PUNTA ROSCA S/AGUJA",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 324938,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 10990,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 39791,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 85976,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 11983,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 11376,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 28493,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 48507,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 25619,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209375601,
         "insumo": "JUEGO COMPLETO PARA CATETERIZACI\u00d3N VESICAL CON SONDA FOLEY SE SOLICITA 18Fr DE SILICONA, CAPACIDAD DE BOLSA DE 2000cc, Soluci\u00f3n para limpieza de Clorexidina acuosa al 1% CON Jeringuilla prellenada con agua bidestilada de  10cc CON UN PAR DE GUANTES DE NITRILO O VINILO",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 23683,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5470,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 10413,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 25256,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5971,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 6512,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 10363,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 14657,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 10616,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209416401,
         "insumo": "JUEGO COMPLETO PARA SUCCI\u00d3N DE V\u00cdAS RESPIRATORIAD, PEDIATRICO Y ADULTO. SE SOLICITA TAMA\u00d1O 6FR",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 15663,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209049500,
         "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 42429,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209049500,
         "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 54067,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209049500,
         "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 18429,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209049500,
         "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 22496,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209049500,
         "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 41662,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209049500,
         "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 25213,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209049500,
         "insumo": "JUEGO DE BOLSA DESECHABLE PARA CAD\u00c1VER",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 25540,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 96935,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 66147,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 6067,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 31062,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 76793,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 105856,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 61666,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209471301,
         "insumo": "JUEGO DE ROPA DESECHABLE PARA CAMA DE PACIENTE",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 74068,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 15552,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 184941,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 488867,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 7355,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 106203,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 184749,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 278830,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 134124,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209044100,
         "insumo": "LLAVE DE TRES VIAS CON DOS (2) CONECTORES,EST\u00c9RIL.",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 153026,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209052001,
         "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5089,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209052001,
         "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 5523,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209052001,
         "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5144,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209052001,
         "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5171,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209052001,
         "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5084,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209052001,
         "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5314,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209052001,
         "insumo": "MALLA EXPANDIBLE TUBULAR            (SE SOLICITA TAMA\u00d1O 1)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5253,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209052008,
         "insumo": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 6500,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209052008,
         "insumo": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 5293,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209052008,
         "insumo": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 6057,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209052008,
         "insumo": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 6827,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209052008,
         "insumo": "MALLA EXPANDIBLE TUBULAR.   (SE SOLICITA TAMA\u00d1O 8 SIN CODIFICADOR DE COLORES)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5043,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209032201,
         "insumo": "PROTECTOR PL\u00c1STICO PARA EL OJO",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 7237,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209032201,
         "insumo": "PROTECTOR PL\u00c1STICO PARA EL OJO",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 9837,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209032201,
         "insumo": "PROTECTOR PL\u00c1STICO PARA EL OJO",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 6485,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209032201,
         "insumo": "PROTECTOR PL\u00c1STICO PARA EL OJO",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 10322,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209032201,
         "insumo": "PROTECTOR PL\u00c1STICO PARA EL OJO",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 7862,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5698,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5887,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 7486,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5526,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 6766,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5782,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 6307,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209666301,
         "insumo": "ROPA DESECHABLE DE NEUROCIRUG\u00cdA",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 6107,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 7185,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 41616,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 6072,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 24329,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 35202,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 9370,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-09-30",
+        "fecha_pedir_insumos": "2024-09-30",
         "cantidad_a_pedir": 5295,
-        "fecha_deficit": "2024-10-31"
+        "mes_a_cubrir": "2024-10-31"
     },
     {
         "codigo": 209270001,
         "insumo": "SET DE ROPA\n",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 12805,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209833401,
         "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 10179,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209833401,
         "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 698876,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209833401,
         "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 22849,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209833401,
         "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 9449,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209833401,
         "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 18613,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209833401,
         "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 68461,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209833401,
         "insumo": "SET DE ROPA DESECHABLE PARA DILATACION Y CURETAJE",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 20078,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209459201,
         "insumo": "SET DE ROPA PARA CITOSCOP\u00cdA",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 20165,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209459201,
         "insumo": "SET DE ROPA PARA CITOSCOP\u00cdA",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 8303,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209459201,
         "insumo": "SET DE ROPA PARA CITOSCOP\u00cdA",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 15995,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209459201,
         "insumo": "SET DE ROPA PARA CITOSCOP\u00cdA",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5997,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209459201,
         "insumo": "SET DE ROPA PARA CITOSCOP\u00cdA",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 13371,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209050104,
         "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 13441,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209050104,
         "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 12903,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209050104,
         "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 9476,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209050104,
         "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 6218,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209050104,
         "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 16057,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209050104,
         "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 12314,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209050104,
         "insumo": "SISTEMA DE SUCCION E IRRIGACION LAPAROSCOPICA CON ESPATULA",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 12826,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209058900,
         "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 57768,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209058900,
         "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 34201,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209058900,
         "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 20297,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209058900,
         "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 20474,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209058900,
         "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 46868,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209058900,
         "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 26354,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209058900,
         "insumo": "SUTURA CATGUT CR\u00d3MICO, CALIBRE 0, LONGITUD 67 A 75 CM.  AGUJA DE 35 A 37MM, DELGADA, \u00bd \u00cdIRCULO, PUNTA REDONDA. ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 29936,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5989,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 22656,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 47996,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 22549,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 25373,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 32579,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 17301,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209542201,
         "insumo": "SUTURA: ACIDO POLIGLIC\u00d3LICO TRENZADO, CALIBRE 3-0, LONGITUD 67 A 75 CM.  AGUJA DE 15 A 17 MM., 1/2 CIRCULO, PUNTA REDONDA. SE SOLICITA LONGITUD DE 75CM Y AGUJA DE 15MM",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 17429,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209066101,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO CALIBRE 3-0, DE LONGITUD 90CM, DOBLE AGUJA DE 25 - 26MM, 1/2 C\u00cdRCULO PUNTA REDONDA EST\u00c9RIL",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 7123,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 9449,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 18261,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 19147,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5269,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 12563,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 15135,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 18848,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 12493,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209485301,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 5-0.(SE SOLICITA LONGITUD DE 75 CM) ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 13729,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209063308,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 6069,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209063308,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 6245,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209063308,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5469,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209063308,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5095,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209063308,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 6424,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209063308,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5125,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209063308,
         "insumo": "SUTURA: POLIPROPILENO MONOFILAMENTO, CALIBRE 7-0",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5796,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5466,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5566,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 10893,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5490,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 6310,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 6549,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 7537,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5573,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209065500,
         "insumo": "SUTURA: SEDA NEGRA TRENZADA  SILICONIZADA, CALIBRE 6-0. SE SOLICITA LONGITUD 45 CM.  AGUJA DE 11 A 12 MM., 3/8 CIRCULO, PUNTA CORTANTE",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5839,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209868301,
         "insumo": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 14389019,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209868301,
         "insumo": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
-        "mes_anterior": "2024-04-30",
+        "fecha_pedir_insumos": "2024-04-30",
         "cantidad_a_pedir": 2380729,
-        "fecha_deficit": "2024-05-31"
+        "mes_a_cubrir": "2024-05-31"
     },
     {
         "codigo": 209868301,
         "insumo": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 6593099,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209868301,
         "insumo": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 6465795,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209868301,
         "insumo": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 1855719,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209868301,
         "insumo": "TERMOMETRO TIMPANICO DIGITAL   ( SE SOLICITA FUNDA O CUBERTOR DESECHABLE) ",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 3552212,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209018401,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 361077,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209018401,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 664059,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209018401,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 53391,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209018401,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 219027,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209018401,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 832492,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209018401,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 309176,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209018401,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL) TAMA\u00d1O L",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 403873,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209018501,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 172494,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209018501,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 403559,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209018501,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 91440,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209018501,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 554850,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209018501,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 161095,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209018501,
         "insumo": "TRAJE DE PROTECCION PERSONAL (TIPO OVEROL)TAMA\u00d1O XL",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 306374,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5914,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 6938,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 12241,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5934,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 6536,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 7768,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 9265,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 7597,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 6270,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209113300,
         "insumo": "TROCAR PARA CIRUGIA LAPAROSCOPICA DE 2MM A 15MM DE DIAMETRO, PUNTA CORTANTE DESECHABLE CON PROTECCION ACTIVA Y REDUCTOR INCORPORADO",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5960,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5081,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 44432,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 109448,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 10655,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 36196,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 67390,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 33675,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209055603,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON             (SE SOLICITA TAMA\u00d1O DE 8MM)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 40758,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 62895,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 127328,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 58980,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 13895,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 17091,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 28840,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 32014,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209055601,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON            (SE SOLICITA TAMA\u00d1O DE 7MM)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 40985,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5462,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 67772,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5527,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5717,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5075,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5418,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-10-31",
+        "fecha_pedir_insumos": "2024-10-31",
         "cantidad_a_pedir": 5084,
-        "fecha_deficit": "2024-11-30"
+        "mes_a_cubrir": "2024-11-30"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-11-30",
+        "fecha_pedir_insumos": "2024-11-30",
         "cantidad_a_pedir": 5025,
-        "fecha_deficit": "2024-12-31"
+        "mes_a_cubrir": "2024-12-31"
     },
     {
         "codigo": 209055604,
         "insumo": "TUBO ENDOTRAQUEAL CON BALON.                                      (SE SOLICITA TAMA\u00d1O DE 8.5MM)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5082,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209054601,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 10FR, LONG 120CM\n",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 10781,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209054601,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 10FR, LONG 120CM\n",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 10248,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209054601,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 10FR, LONG 120CM\n",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5373,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209054601,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 10FR, LONG 120CM\n",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5670,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209054602,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 5204,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209054602,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
-        "mes_anterior": "2024-02-29",
+        "fecha_pedir_insumos": "2024-02-29",
         "cantidad_a_pedir": 5255,
-        "fecha_deficit": "2024-03-31"
+        "mes_a_cubrir": "2024-03-31"
     },
     {
         "codigo": 209054602,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 5575,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209054602,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
-        "mes_anterior": "2024-06-30",
+        "fecha_pedir_insumos": "2024-06-30",
         "cantidad_a_pedir": 5276,
-        "fecha_deficit": "2024-07-31"
+        "mes_a_cubrir": "2024-07-31"
     },
     {
         "codigo": 209054602,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 5528,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209054602,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 5703,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209054602,
         "insumo": "TUBO NASOGASTRICA TIPO LEVIN. SOLICITAMOS TAMA\u00d1O 12 FR, LONG 120CM\n",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 5929,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     },
     {
         "codigo": 209058300,
         "insumo": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
-        "mes_anterior": "2024-01-31",
+        "fecha_pedir_insumos": "2024-01-31",
         "cantidad_a_pedir": 7121,
-        "fecha_deficit": "2024-02-29"
+        "mes_a_cubrir": "2024-02-29"
     },
     {
         "codigo": 209058300,
         "insumo": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
-        "mes_anterior": "2024-03-31",
+        "fecha_pedir_insumos": "2024-03-31",
         "cantidad_a_pedir": 11861,
-        "fecha_deficit": "2024-04-30"
+        "mes_a_cubrir": "2024-04-30"
     },
     {
         "codigo": 209058300,
         "insumo": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
-        "mes_anterior": "2024-05-31",
+        "fecha_pedir_insumos": "2024-05-31",
         "cantidad_a_pedir": 6200,
-        "fecha_deficit": "2024-06-30"
+        "mes_a_cubrir": "2024-06-30"
     },
     {
         "codigo": 209058300,
         "insumo": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
-        "mes_anterior": "2024-07-31",
+        "fecha_pedir_insumos": "2024-07-31",
         "cantidad_a_pedir": 10306,
-        "fecha_deficit": "2024-08-31"
+        "mes_a_cubrir": "2024-08-31"
     },
     {
         "codigo": 209058300,
         "insumo": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
-        "mes_anterior": "2024-08-31",
+        "fecha_pedir_insumos": "2024-08-31",
         "cantidad_a_pedir": 11337,
-        "fecha_deficit": "2024-09-30"
+        "mes_a_cubrir": "2024-09-30"
     },
     {
         "codigo": 209058300,
         "insumo": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
-        "mes_anterior": "2024-09-30",
+        "fecha_pedir_insumos": "2024-09-30",
         "cantidad_a_pedir": 6095,
-        "fecha_deficit": "2024-10-31"
+        "mes_a_cubrir": "2024-10-31"
     },
     {
         "codigo": 209058300,
         "insumo": "VENDA DE YESO     (SE SOLICITA DE FRAGUADO R\u00c1PIDO DE 3\" X 3 YARDAS, DE MAXIMO DE 5 MINUTOS)",
-        "mes_anterior": "2024-12-31",
+        "fecha_pedir_insumos": "2024-12-31",
         "cantidad_a_pedir": 11951,
-        "fecha_deficit": "2025-01-31"
+        "mes_a_cubrir": "2025-01-31"
     }
 ]

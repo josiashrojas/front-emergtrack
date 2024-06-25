@@ -94,12 +94,12 @@ def is_valid_date(date_str):
 def get_requerimientos():
     data = request.get_json()
     codigo = data.get('codigo')
-    fecha_inicio = data.get('fecha_inicio')
+    fecha_base = data.get('fecha_base')
 
     if not codigo:
         return jsonify({"error": "Código no proporcionado"}), 400
 
-    if fecha_inicio and not is_valid_date(fecha_inicio):
+    if fecha_base and not is_valid_date(fecha_base):
         return jsonify({"error": "Fecha inicio no válida"}), 400
 
     # Filtrar los requerimientos por código
@@ -108,10 +108,10 @@ def get_requerimientos():
     if not filtered_requerimientos:
         return jsonify({"error": "No se encontraron requerimientos para el código proporcionado"}), 404
 
-    # Filtrar los requerimientos por fecha_inicio si se proporciona
-    if fecha_inicio:
-        fecha_inicio = pd.to_datetime(fecha_inicio)
-        filtered_requerimientos = [req for req in filtered_requerimientos if pd.to_datetime(req['fecha_deficit']) >= fecha_inicio]
+    # Filtrar los requerimientos por fecha_base si se proporciona
+    if fecha_base:
+        fecha_base = pd.to_datetime(fecha_base)
+        filtered_requerimientos = [req for req in filtered_requerimientos if pd.to_datetime(req['mes_a_cubrir']) >= fecha_base]
 
     if not filtered_requerimientos:
         return jsonify({"error": "No se encontraron requerimientos para el código proporcionado desde la fecha proporcionada"}), 404
